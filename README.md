@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <!--
+[![Header](https://github.com/NataliaVolentova/Natko/blob/master/header_IT.PNG "Header")](https://www.linkedin.com/in/natalia-volentova-029a3ab7/)
 **NataliaVolentova/NataliaVolentova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
