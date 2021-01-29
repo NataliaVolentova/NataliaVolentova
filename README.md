@@ -14,12 +14,12 @@
 
 Here are some ideas to get you started:
 
- ##🔭 I’m currently working on 
-## 🌱 I’m currently learning java
+ ###🔭 I’m currently working on 
+### 🌱 I’m currently learning java. german
 - 👯 I’m looking to collaborate on ...
-## 🤔 I’m looking for help with pair programming in Java
+### 🤔 I’m looking for help with pair programming in Java
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-##⚡ Fun fact: latin dance makes me happy
+###⚡ Fun fact: latin dance makes me happy
 -->
