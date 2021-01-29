@@ -1,6 +1,6 @@
 [![Header](https://github.com/NataliaVolentova/NataliaVolentova/blob/main/header_IT.PNG "Header")](https://www.linkedin.com/in/natalia-volentova-029a3ab7/)
 
-### Hi there I am Natali - transforming good ideas into software solutions 👋
+### Hi there I am Natalia Volentova - I enjoy transforming good ideas into software solutions 👋
 
 - 🔭 I am especially into: teaching people how to learn && effective learning methods
 - 🌱 I’m currently learning Java & how to be a valuable IT Project Manager
