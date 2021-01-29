@@ -1,7 +1,9 @@
+[![Header](https://github.com/NataliaVolentova/NataliaVolentova/blob/main/header_IT.PNG "Header")](https://www.linkedin.com/in/natalia-volentova-029a3ab7/)
+
 ### Hi there I am Natali - junior Developer wannabe IT Project Manager  👋
 
 <!--
-[![Header](https://github.com/NataliaVolentova/NataliaVolentova/blob/main/header_IT.PNG "Header")](https://www.linkedin.com/in/natalia-volentova-029a3ab7/)
+
 ![ScreenShot](/main/header_IT.PNG)
 ![Header](/main/header_IT.PNG)
 
