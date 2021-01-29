@@ -2,6 +2,8 @@
 
 <!--
 [![Header](https://github.com/NataliaVolentova/Natko/blob/master/header_IT.PNG "Header")](https://www.linkedin.com/in/natalia-volentova-029a3ab7/)
+
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 **NataliaVolentova/NataliaVolentova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
