@@ -12,6 +12,7 @@
 ### Connect with me:
 [<img align="left" alt="natkovolant | LinkedIn" width="22px" src="https://www.linkedin.com/in/natalia-volentova-029a3ab7/" />][linkedin]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.linkedin.com/in/natalia-volentova-029a3ab7/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
 <br />
 
 ### Languages and Tools:
