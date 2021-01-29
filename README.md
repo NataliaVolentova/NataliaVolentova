@@ -4,7 +4,7 @@
 
 - 🔭 I am especially into: teaching people how to learn && effective learning methods
 - 🌱 I’m currently learning Java & how to be a valuable IT Project Manager
-- 👯 I’m looking for a mentor for esp. working related topics 
+- 👯 I’m looking for a mentor for esp. work related topics 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to dance latino & spend time with inpiring people
 
