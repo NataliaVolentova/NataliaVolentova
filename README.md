@@ -14,10 +14,6 @@
 
 <a href="https://www.linkedin.com/in/natalia-volentova-029a3ab7/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
 <br />
-<br />
-
-
-
 
 ### 💻 Languages and Tools:
 <img align="left" alt="Java" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
@@ -35,7 +31,6 @@
 
 <br />
 <br />
-<br />
 In my profile you will find many repos with the similar naming structure CF-Angular-day01-Rodriguez-Volentova
 It stands for: 
 <br />
@@ -44,5 +39,3 @@ It stands for:
  - 💻 Angular -  main technology/framework/language used <br />
  - 📆 day01 - number of days from when I started to use the technology/framework/language at the bootcamp <br />
  - 👯 Rodriguez-Volentova - pair-programming partner's name - me
-
-
