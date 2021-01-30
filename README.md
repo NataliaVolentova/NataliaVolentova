@@ -36,6 +36,7 @@ It stands for:
 <br />
  - 🏡 📍 CF - Code Factory, where I was doing 2,5 months long web-development bootcamp  
 <br />
- - 💻 Angular -  main technology/framework/language used <br />
+ - 💻 Angular -  main technology/framework/language used 
+ <br />
  - 📆 day01 - number of days from when I started to use the technology/framework/language at the bootcamp <br />
  - 👯 Rodriguez-Volentova - pair-programming partner's name - me
