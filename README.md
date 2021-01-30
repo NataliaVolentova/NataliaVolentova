@@ -30,9 +30,10 @@
 <br />
 In my profile you will find many repos with the similar naming structure CF-Angular-day01-Rodriguez-Volentova
 It stands for: 
-🏡 📍 CF - [Code factory](https://codefactory.wien/de/home/) where I was doing 2,5 months web-development bootcamp
-💻 Angular -  technology/framework/language used
-📆 day01 - number of days from when I started to use the technology/framework/language at the bootcamp
+<br />
+🏡 📍 CF - [Code factory](https://codefactory.wien/de/home/) where I was doing 2,5 months web-development bootcamp <br />
+💻 Angular -  technology/framework/language used <br />
+📆 day01 - number of days from when I started to use the technology/framework/language at the bootcamp <br />
 👯 Rodriguez-Volentova - pair-programming partner's name - me
 
 
