@@ -7,11 +7,10 @@
 - 👯 I’m looking for a Scrum Master Mentor, Java learning buddys for pair programming & interesting projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to dance latino competitively & kayaking & hiking
-<br />
+
 <img align="right" width="250" height="250" src="https://github.com/NataliaVolentova/NataliaVolentova/blob/main/picture_joke.jpg">
 
 ### 👋Connect with me:
-
 <a href="https://www.linkedin.com/in/natalia-volentova-029a3ab7/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
 <br />
 
@@ -31,6 +30,7 @@
 
 <br />
 <br />
+### Repos ###
 In my profile you will find many repos with the similar naming structure CF-Angular-day01-Rodriguez-Volentova
 It stands for: 
 <br />
