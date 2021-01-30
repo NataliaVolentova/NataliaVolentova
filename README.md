@@ -1,4 +1,4 @@
-[![Header](https://github.com/NataliaVolentova/NataliaVolentova/blob/main/header_IT.PNG "Header")](https://www.linkedin.com/in/natalia-volentova-029a3ab7/)
+[![Header](https://github.com/NataliaVolentova/NataliaVolentova/blob/main/header_IT2.PNG "Header")](https://www.linkedin.com/in/natalia-volentova-029a3ab7/)
 
 ### Hi there I am Natalia Volentova - I enjoy transforming good ideas into software solutions 👋
 
