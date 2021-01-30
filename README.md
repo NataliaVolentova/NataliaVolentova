@@ -7,10 +7,12 @@
 - 👯 I’m looking for a Scrum Master Mentor, Java learning buddys for pair programming & interesting projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to dance latino & kayaking & hiking
-
+<br />
+<br />
 
 ### 👋Connect with me:
 <a href="https://www.linkedin.com/in/natalia-volentova-029a3ab7/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
+<br />
 <br />
 
 ### 💻 Languages and Tools:
@@ -32,7 +34,7 @@
 In my profile you will find many repos with the similar naming structure CF-Angular-day01-Rodriguez-Volentova
 It stands for: 
 <br />
-🏡 📍 CF - [Code factory](https://codefactory.wien/de/home/) where I was doing 2,5 months web-development bootcamp <br />
+🏡 📍 CF - [Code Factory] (https://codefactory.wien/de/home/) where I was doing 2,5 months web-development bootcamp <br />
 💻 Angular -  technology/framework/language used <br />
 📆 day01 - number of days from when I started to use the technology/framework/language at the bootcamp <br />
 👯 Rodriguez-Volentova - pair-programming partner's name - me
