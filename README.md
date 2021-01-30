@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Java & how to be a valuable IT Project Manager
 - 👯 I’m looking for a Scrum Master Mentor, Java learning buddys for pair programming & interesting projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to dance latino & kayaking & hiking
+- ⚡ Fun fact: I love to dance latino competitively & kayaking & hiking
 <br />
 
 
