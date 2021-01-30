@@ -11,7 +11,7 @@
 
 
 ### 👋Connect with me:
-<img align="right" width="400" height="400" src="https://github.com/NataliaVolentova/NataliaVolentova/blob/main/picture_joke.jpg">
+<img align="right" width="300" height="300" src="https://github.com/NataliaVolentova/NataliaVolentova/blob/main/picture_joke.jpg">
 <a href="https://www.linkedin.com/in/natalia-volentova-029a3ab7/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
 <br />
 <br />
@@ -38,7 +38,7 @@
 In my profile you will find many repos with the similar naming structure CF-Angular-day01-Rodriguez-Volentova
 It stands for: 
 <br />
- - 🏡 📍 CF - [Code Factory](https://codefactory.wien/de/home/) where I was doing 2,5 months long web-development bootcamp  
+ - 🏡 📍 CF - Code Factory, where I was doing 2,5 months long web-development bootcamp  
 <br />
  - 💻 Angular -  main technology/framework/language used <br />
  - 📆 day01 - number of days from when I started to use the technology/framework/language at the bootcamp <br />
