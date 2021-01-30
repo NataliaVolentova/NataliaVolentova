@@ -4,16 +4,16 @@
 
 - 🔭 I am especially into: teaching people how to learn && effective learning methods
 - 🌱 I’m currently learning Java & how to be a valuable IT Project Manager
-- 👯 I’m looking for a Scrum Master Mentor, Java buddys for pair programming as a training
+- 👯 I’m looking for a Scrum Master Mentor, Java learning buddys for pair programming & interesting projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to dance latino & spend time with inpiring people
+- ⚡ Fun fact: I love to dance latino & kayaking & hiking
 
 
-### Connect with me:
+### 👋Connect with me:
 <a href="https://www.linkedin.com/in/natalia-volentova-029a3ab7/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
 <br />
 
-### Languages and Tools:
+### 💻 Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -26,6 +26,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<br />
 <br />
 <br />
 In my profile you will find many repos with the similar naming structure CF-Angular-day01-Rodriguez-Volentova
