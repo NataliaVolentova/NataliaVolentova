@@ -11,10 +11,11 @@
 
 
 ### 👋Connect with me:
+<img align="right" width="400" height="400" src="https://github.com/NataliaVolentova/NataliaVolentova/blob/main/picture_joke.jpg">
 <a href="https://www.linkedin.com/in/natalia-volentova-029a3ab7/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
 <br />
 <br />
-<img align="right" width="100" height="100" src="https://github.com/NataliaVolentova/NataliaVolentova/blob/main/picture_joke.jpg">
+
 
 
 
