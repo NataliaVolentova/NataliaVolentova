@@ -31,7 +31,7 @@
 <br /> 
 
 ### Repos ###
-In my profile you will find many repos with the similar naming structure CF-Angular-day01-Rodriguez-Volentova
+In my profile you will find many repos with the similar naming structure CF-Angular-day01-Rodriguez-Volentova.
 It stands for: <br />
  - 🏡 📍 CF - Code Factory, where I was doing 2,5 months long web-development bootcamp  <br />
  - 💻 Angular -  main technology/framework/language used <br />
