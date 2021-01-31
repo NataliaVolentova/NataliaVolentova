@@ -8,7 +8,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to dance latino competitively & kayaking & hiking
 
-<img align="right" width="250" height="250" src="https://github.com/NataliaVolentova/NataliaVolentova/blob/main/picture_joke.jpg">
+<img align="right" width="200" height="200" src="https://github.com/NataliaVolentova/NataliaVolentova/blob/main/picture_joke.jpg">
 
 ### 👋Connect with me:
 <a href="https://www.linkedin.com/in/natalia-volentova-029a3ab7/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
