@@ -3,9 +3,9 @@
 ### Hi there I am Natalia Volentova - I enjoy transforming good ideas into software solutions 👋
 
 - 🔭 I am especially into: teaching people how to learn && effective learning methods
-- 🌱 I’m currently learning doing UX / UI Prototypes & how to be a valuable IT Project Manager
-- 👯 I’m looking for a Scrum Master Mentor, Angular & Typescript learning buddys for pair programming & interesting projects
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning doing UX / UI Prototypes & how to be a valuable IT Project Manager & Technical Analyst
+- 👯 I’m looking for a Scrum Master Mentor
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to dance latino competitively & kayaking & hiking
 
 <img align="right" width="200" height="200" src="https://github.com/NataliaVolentova/NataliaVolentova/blob/main/picture_joke.jpg">
