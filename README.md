@@ -2,7 +2,7 @@
 
 ### Hi there I am Natalia Volentova - I enjoy transforming good ideas into software solutions 👋
 
-- 🔭 I am especially into: teaching people how to learn && effective learning methods
+- 🔭 I am especially into: Bio Hacking && effective learning methods
 - 🌱 I’m currently learning doing UX / UI Prototypes & how to be a valuable IT Project Manager & Technical Analyst
 - 👯 I’m looking for a Scrum Master Mentor
 - 🥅 2022 Goals: Contribute more to Open Source projects
